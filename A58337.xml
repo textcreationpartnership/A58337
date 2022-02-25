@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle of the prophet Reeve Written in the year, 1656.</title>
+            <author>Reeve, John, 1608-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58337</idno>
+            <idno type="STC">Wing R677</idno>
+            <idno type="STC">ESTC R223718</idno>
+            <idno type="EEBO-CITATION">99834003</idno>
+            <idno type="PROQUEST">99834003</idno>
+            <idno type="VID">38482</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38482)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1839:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle of the prophet Reeve Written in the year, 1656.</title>
+                  <author>Reeve, John, 1608-1658.</author>
+                  <author>Muggleton, Lodowick, 1609-1698.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 6: John Reeve.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed on p. 8: Lodowick Muggleton.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apocalyptic literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:38482:1" rendition="simple:additions"/>
+            <head>An <hi>EPISTLE</hi> of the Prophet <hi>REEVE.</hi>
+            </head>
+            <head type="sub">Written in the Year, 1656.</head>
+            <p>BLESSED are all thoſe that ſhall read, or hear this Epiſtle with a meek Soul, and are kept from judging Things that ſeem ſtrange at firſt Appearance, but by ſober ſearching of the Scriptures, compare Spiritual Things with Spiritual, as thoſe noble born did in the Apoſtles Time, being made patient to wait the Lord's Leiſure, who reveals his Secrets to ſuch only who with a pure Conſcience hearken to his Spirit; <hi>He that believeth maketh not Haſt.</hi>
+            </p>
+            <p>IN the 6th Chapter of St. <hi>John</hi> 36th Verſe, are theſe Words, <hi>The Words that I ſpeak unto you, are Spirit and Life;</hi> and in the 10th, 17th, and 18th Verſe, it is thus written, <hi>I lay down my Life that I may take it again: No Man taketh it from me, but I lay it down of my ſelf I have Power to lay it down, and Power to take it again.</hi> There<g ref="char:EOLhyphen"/>fore, that you may increaſe in your moſt Holy Faith unto your Eternal Glory, which are appointed to believe in that diſtinct glo<g ref="char:EOLhyphen"/>rified Body of the Lord Jeſus Chriſt, the only God and everlaſting Father, from the Holy Spirit, I ſhall ſhew you wherein that Pow<g ref="char:EOLhyphen"/>er did conſiſt of Chriſt dying and living again.</p>
+            <p>THIS his Power was ſecretly hid in the Truth of his Word ſpeaking. Why? becauſe the Nature of Chriſt's Soul within his bleſſed Body was only one Voice of ſpiritual Faith and Truth. Therefore, you may underſtand, whatever he ſpoke in that Word ſpeaking, was all Power to effect the Thing ſpoken of. <hi>The Words that I ſpeak unto you are Spirit and Life,</hi> that is, as if Chriſt ſhould have ſaid, <q>My Words tend not to Joy in Carnal Things that pe<g ref="char:EOLhyphen"/>riſh, but in the rejoycing in Spiritual Things which are eternal;</q>
+               <pb n="2" facs="tcp:38482:2"/>or, as if the Lord ſhould have ſaid, <q>My Word is all Spiritual Light and Love, Meekneſs, Patience, with all Variety of immor<g ref="char:EOLhyphen"/>tal Glorious Joys beyond the Comprehenſion of the Spirit of Men and Angels.</q>
+            </p>
+            <p>AGAIN, Chriſt's Words are ſaid to be <hi>Spirit and Life,</hi> becauſe all Spirits in the Creation were made by his Word ſpeaking only: Fur<g ref="char:EOLhyphen"/>thermore, becauſe his Word only, is the Original Cauſe of all Light, Life and Glory in Heaven and Earth, and in Men and An<g ref="char:EOLhyphen"/>gels; <hi>I have Power,</hi> ſaith Chriſt, <hi>to lay down my Life, and Power to take it again.</hi> I declare from the Holy Spirit, none in Heaven and Earth could ever truly ſpeak thoſe Words, but that Man Chriſt only.</p>
+            <p>AGAIN, it is as if Chriſt ſhould have ſaid, <q>I only have all Power within my Soul, by a Word ſpeaking, to die and live again.</q>
+            </p>
+            <p>MOREOVER, Chriſt Jeſus being Lord of Life and Death, did believe without any Motion of doubting in him, that whatſoever he ſpake ſhould come to paſs, and that gave a Being to the Thing ſpoken of, and that made him to ſay in the 24th of St. <hi>Matthew,</hi> ver. 25. <hi>Heaven and Earth ſhall paſs away, but my Word ſhall not paſs away.</hi>
+            </p>
+            <p>So that Chriſt being the only God of all Truth, you may un<g ref="char:EOLhyphen"/>derſtand that it was his Faith in that living Truth, or Vertue of his Word ſpeaking, which gave him Power to lay down that Di<g ref="char:EOLhyphen"/>vine Soul, or Spiritual Godhead Life in the Hell of the Grave, and to quicken his Spiritual Life again from Death, to reign in immor<g ref="char:EOLhyphen"/>tal Glory to Eternity, in that very Body of Fleſh wherein he ſuf<g ref="char:EOLhyphen"/>fered Death. For I declare, from the Holy Spirit, from that ever<g ref="char:EOLhyphen"/>living Vertue continually flowing from the former Suffering of God on this Earth, in the Body of Chriſt, the Tongue of Men nor Angels can never expreſs the Variety of new glorious Joys, the Eternal Spirit of God the Father hath in that glorious Garment of Fleſh he hath clothed himſelf withal.</p>
+            <p>AGAIN, that Divine Faith of Chriſt in that living Truth and Virtue of his Word ſpeaking gave him Power over Life and Death, that by his precious Blood ſhedding, he might purchaſe from him<g ref="char:EOLhyphen"/>ſelf the Lordſhip of the Dead and Quick.</p>
+            <p>AGAIN, if God had not been able to have made his Soul to die in his Body, and by the living Vertue of that Almighty Word of Truth, ſpoken through his Holy Mouth, to quicken a new and glo<g ref="char:EOLhyphen"/>rious
+<pb n="3" facs="tcp:38482:2"/>Life again, O then would it be impoſſible for him at the laſt Day, by the Power of his Word to quicken and make alive, all the Souls and Bodies of Mankind that are dead aſleep, and buried in the Grave.</p>
+            <p>YOU may underſtand, that living Vertue of his Divine Word of Truth, ſpoken before he died, was that God, which raiſed the ever<g ref="char:EOLhyphen"/>living God from Death to Life again.</p>
+            <p>THEREFORE, becauſe the Lord your God liveth, ye which are to live eternally with him with aſtoniſhing Wonder and Admi<g ref="char:EOLhyphen"/>ration behold your God, that was abſolutely dead and alive at one and the ſame Time.</p>
+            <p>THEREFORE Chriſt ſpoke thoſe Words to his Apoſtles of the Power of Faith, <hi>Mat.</hi> xxi. 21. and <hi>Jeſus</hi> anſwered and ſaid unto them, <hi>Verily I ſay unto you, if ye have Faith, and doubt not, ye ſhall not only do what I have done to the Figg-tree, but alſo if you ſay to this Mountain, take thy ſelf away, and caſt thy ſelf into the Sea it ſhall be done;</hi> and in Mat. 19. and 26. <hi>But with God all things are poſſible,</hi> and in <hi>Gen.</hi> 14. <hi>Is any thing hard to the Lord.</hi>
+            </p>
+            <p>WOE, WOE, WOE therefore, to all that are left under the Power of Carnal Reaſon, that they may ever War againſt that in<g ref="char:EOLhyphen"/>comprehenſible Power of Spiritual Faith and Truth eſſentially reign<g ref="char:EOLhyphen"/>ing in the glorious Body of the only wiſe God, your alone Redeemer, which long for his Appearance, which by the Almighty Power of his Word ſpeaking of that Subſtance of Earth and Water, created both Worlds, and all living Forms that in them are, into that Or<g ref="char:EOLhyphen"/>der they appear now to be, whether for a Time, or for Eternity, which alſo twice changed the Condition of his glorious Form by that Almighty Power of the Spirit of Faith and Truth ſpeaking thro' his Heavenly Mouth.</p>
+            <p>MOREOVER, his Divine Godhead dyed in the Fleſh and quick<g ref="char:EOLhyphen"/>ned in the Spirit, not only to redeem his Elect loſt Sheep of the Houſe of <hi>Iſrael,</hi> from the bitter Cup of Eternal Death, but alſo to prove his infinite Power and Wiſdom of Truth ſpeaking, and for the diſ<g ref="char:EOLhyphen"/>proving of all lying Reprobates, which always either in Heart or Tongue, ſpeak againſt that glorious Power of their Creator.</p>
+            <p>YOU know, that it is a common Thing for them to ſay, that it is Blaſphemy for any Man to ſay, that <hi>God could poſſibly die,</hi> with many ſuch like curſed Speeches againſt incomprehenſible Power. And why do Atheiſtical Hypocrites ſay, that God could not die, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="4" facs="tcp:38482:3"/>of their lying Imagination they cannot comprehend by wh<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Means God ſhould poſſible live again if he were dead.</p>
+            <p>THUS they meaſure that incomprehenſible Power of Divin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Faith or Heavenly Truth, by the narrow Compaſs of their blin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reaſon, and Bottomleſs Pit of lying Imagination, which under<g ref="char:EOLhyphen"/>ſtands nothing of that Spiritual Power of true Faith.</p>
+            <p>AND becauſe they are not able to comprehend the Spiritua<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ways of the Lord Jeſus Chriſt, they hate both him and his Elect and call him a Liar to his Face, both in his Perſon and in his Word and in his Prophet, and in his People.</p>
+            <p>MOREOVER, becauſe they ſee no Power in themſelves, neithe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to live nor to ſlie preſumptuouſly, they take upon them to judg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the God of all Power over Life and Death, by their no Power at all.</p>
+            <p>AGAIN, if that God that ſaid, <hi>I have Power to lay down my Life and Power to take it again,</hi> did not die, and was buried both Soul and Body in the Grave, and after the decreed Time of three Days and three Nights, by a quickning Spirit revive a new and glorious Life again in Deſpite of Death's Power, then (Angelical Reprobate) the following Scriptures were Words of Truth, ſpoken from the Spiritu<g ref="char:EOLhyphen"/>al Mouth of the everlaſting God, that ſent me to declare this Se<g ref="char:EOLhyphen"/>cret, who did die, but cannot poſſibly lie; for lying is of a Mortal Man, like unto thy ſelf. In the Words of <hi>Iſa.</hi> 55. and the laſt Verſe, <hi>Becauſe he poured out his Soul unto Death.</hi> In <hi>Pſal.</hi> 16. ver. 11. <hi>For thou wilt not leave my Soul in Hell, neither wilt thou ſuffer thine Holy One to ſee Corruption.</hi> In <hi>Acts</hi> ii. 27, 31. <hi>Becauſe thou wilt not leave my Soul in the Grave; neither wilt thou ſuffer thine Holy One to ſee Cor<g ref="char:EOLhyphen"/>ruption;</hi> he knowing that he before ſpoke of the Reſurrection of Chriſt, that his Soul ſhould not be left in the Grave, neither ſhould his Fleſh ſee Corruption. <hi>Rom.</hi> xiv. 9, <hi>For Chriſt therefore died and roſe again, and revived, that he might be Lord both of the Dead and Quick.</hi> In <hi>Rev.</hi> i. 17, 18. <hi>Saying unto me, Fear not, I am the firſt and the laſt; I am he that liveth, and was dead, and behold I am alive for ever<g ref="char:EOLhyphen"/>more, Amen; and have the Keys of Hell and Death.</hi> And <hi>Rev.</hi> ii. 8. <hi>Theſe Things ſaith the firſt, and the laſt, which was dead and is alive.</hi>
+            </p>
+            <p>IF this Truth be not ſufficiently cleared by the Letter of the Scriptures concerning Chriſt's Soul and Body being both dead and buried in the Grave, and living again by his own Power, I would it were. This I am certain of, that they that deny this Truth, are not only naturally blind, but wilfully alſo do ſhut their Eyes, and
+<pb n="5" facs="tcp:38482:3"/>ſtop their Fars, and call the Scriptures Lies, becauſe of the Croſs of Chriſt, without which there is no Crown of Glory.</p>
+            <p>AGAIN, if the everlaſting God for a Moment could not have died, and left himſelf void of all Light or Life, Spiritual or Natural, (as the Condition of all Mankind is, which are dead aſleep in the Duſt of the Earth) then he could not poſſibly have experimentally known the State of the Dead, whether Elect or Reprobate. More<g ref="char:EOLhyphen"/>over, neither could he poſſibly, in his Creatureſhip Condition, be capable of entring into the Immortal Glory of his Creator-ſhip again, but by his entring into Death, that he might live again, and upon his glorious Head inſtead of a Crown of Throns, wear a double Crown of eternal Glory.</p>
+            <p>AGAIN, that he might alſo ſhow unto his Elect Men and An<g ref="char:EOLhyphen"/>gels, his Almighty Power and unſearchable Wiſdom, by quickning an Immortal tranſcendent glorious Life out of Death it ſelf.</p>
+            <p>THUS the Lord of Life and Death, by ſuffering all Conditions in his innocent Soul and Body, did purchaſe at a dear Rate from him<g ref="char:EOLhyphen"/>ſelf a Prerogative Power of being Lord and King over all Conditi<g ref="char:EOLhyphen"/>ons whatſoever; and from hence he experimentally knows what Immortal Crowns of Glory are moſt ſuitable for all ſuffering Conditi<g ref="char:EOLhyphen"/>ons his bleſſed ones undergo: And by Virtue of his unſpeakable Suf<g ref="char:EOLhyphen"/>ferings at the Hands of <hi>Jewiſh Canaanitiſh</hi> Devils, he knoweth what Meaſure of eternal Death in utter Darkneſs is moſt meet for the Souls and Bodies of all the Sons and Daughters proceeding from the Bowels of curſed bloody <hi>Cain,</hi> that Reprobate Angelical Old wiſe Serpent Devil and Father of all the Damned, which thro' the Decree of God was caſt out of Heaven into this World, that he might bring forth his Generation of proud envious ſcoffing perſecuting wiſe Ser<g ref="char:EOLhyphen"/>pent Devils, not only to war againſt the Lord of Life and the Truth of Holy Scriptures, but alſo againſt his Holy Spirit of Di<g ref="char:EOLhyphen"/>vine Faith or Truth in all the Elect loſt Sons and Daughters pro<g ref="char:EOLhyphen"/>ceeding from the Loins of <hi>Adam;</hi> ſo that their Eternal periſhing by the ſecret Decree of God being hid from them, by his Wiſdom, they might juſtly be damned in themſelves from the everlaſting Remembrance, not only of all their Actions of vain-glorious Hypo<g ref="char:EOLhyphen"/>criſy, but unmerciful Cruelties.</p>
+            <p>THIS will be that gnawing Worm of Conſcience which never dieth, and that fiery Curſe of the Law of the Wrath of God in Mens Souls that never goeth out.</p>
+            <p>
+               <pb n="6" facs="tcp:38482:4"/>
+AND ſo much concerning that everlaſting Word of Truth that was ſpoken by the glorious Mouth of the everlaſting God, that Man Chriſt Jeſus upon the Throne of all Immortal Crowns of Glory and Majeſty far above all Heavens, Angels and Men.</p>
+            <closer>
+               <signed>Yours which love the Lord Jeſus more than this periſhing World.<hi>JOHN REEVE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <head>An Occaſional Diſcourſe from the Firſt and Second Verſe of the Second Chapter of the <hi>Divine Looking-Glaſs,</hi> concerning the Prophet <hi>Reeve,</hi> that <hi>Darkneſs, Death and Hell lay ſecretly hid in the Spiritual Earth eternally with God.</hi>
+            </head>
+            <byline>By the Prophet <hi>Muggleton,</hi> Septem. 28. Anno Dom. 1668.</byline>
+            <p>THE Heaven of Glory that is now God's Throne, with the Subſtance of Earth and Water, was eternally uncreated in the Preſence of God, who was alone by himſelf before any created Be<g ref="char:EOLhyphen"/>ing appear'd in his Sight: Then his glorious Wiſdom mov'd him by a Word ſpeaking to that Spiritual Earth above this Global World to create an innumerable Company of glorious Spiritual Angels, whoſe Form, and Image was the ſame as God's; only differing in their Natures, the Angels Nature being pure Reaſon, and God's Nature Divine Faith. And there was no impure Thing in his Sight; only he created one Angel more glorious than the reſt. After this, the glorious Wiſdom of God moved him to create this Mortal Viſible World of Earth and Water which were Eternal Subſtances, but dark, dead and ſenſeleſs: And of this viſible Mortal Earth, the Glorious Wiſe God created <hi>Adam</hi> and <hi>Eve</hi> in his own Image, and breath<g ref="char:EOLhyphen"/>ed into them the Breath of Life: That Breath of the ever-living God made their Souls Spiritual and Immortal, and would have ſo continu'd: But now behold, what the Wiſdom of God mov'd him to: He firſt tries what his Creature, that Holy Angel would do, or what would become of him if he did withdraw his Revelation from him, and leave him to himſelf: Not that God had eternally decreed this,
+<pb n="7" facs="tcp:38482:4"/>but as his glorious Wiſdom moved him to this or that: For if God knew what was paſt, preſent and to come, there was an End of his Wiſdom, and ſo would not be infinite; but this makes him infinite, that his Wiſdom is eternally increaſing. Now, when God did with<g ref="char:EOLhyphen"/>hold his Revelation from this glorious Angel, his pure Reaſon in Creation became impure, and aſpir'd to be above the Creator; which when God ſaw and knew, thoſe vilifying Thoughts that continually ſprang in him, he caſt him down from Heaven, like Lightning. From that very Moment Good and Evil was viſible in this Creation; which was the Tree of Knowledge of Good and Evil which ſtood before <hi>Adam</hi> and <hi>Eve.</hi> Here Sin enter'd into the World: Therefore the glo<g ref="char:EOLhyphen"/>rious God having found by the Trial of his firſt Creature, how it became with him, his Wiſdom ſaw it good to leave Man of his own Nature to himſelf: Only he firſt gave Man a Law, that if he hearkened to the Subtilty of that Reprobate fallen Spiritual glorious Angel, by eating or believing in him, he ſhould die the Death; that is, that immortal Soul he were created in, while he ſtood in Obedience to God could not fall: But he ſhould by Diſobe<g ref="char:EOLhyphen"/>dience become Mortal: Now the Subtilty of this glorious Angel was too powerful for <hi>Eve:</hi> (<hi>Adam</hi> was not in the leaſt concern'd in <hi>Eve</hi>'s Temptation,) but being overcome by the Serpent Angel, he having Power, preſently enters her Womb: For the Nature of Spiritual Bodies can tranſmute it ſelf into as ſmall a Place as it pleaſeth: And this Angel pollutes her, makes her defil'd, fills her pure in<g ref="char:EOLhyphen"/>nocent Soul with Luſtful Thoughts and Deſires towards her Hus<g ref="char:EOLhyphen"/>band: There this Immortal Reprobate Angel lays down his Immor<g ref="char:EOLhyphen"/>tality, in becoming Seed; and had, or could <hi>Eve</hi> have liv'd with<g ref="char:EOLhyphen"/>out the Embraces of her Husband, ſhe would in her appointed Time brought forth <hi>Cain</hi> the Offspring, and only begotten Son of that Reprobate Angel, the Father of all the Devils in the World: But ſhe could not forbear but tempt poor innocent <hi>Adam</hi> who is over<g ref="char:EOLhyphen"/>come by hearkening to <hi>Eve</hi>'s Words, and ſo becomes polluted too, then at that very Time Death enter'd into the World, and not be<g ref="char:EOLhyphen"/>fore. Now, as concerning Hell, God comes and ſays, <hi>I will put En<g ref="char:EOLhyphen"/>mity between the two Seeds, the Seed of the Woman and the Seed of the Serpent.</hi> There was in <hi>Cain</hi> Part of the Woman's Seed (which was God's Nature) as well as the Serpent's: Likewiſe in <hi>Abel</hi> there was two Seeds: But here lies the Difference; in <hi>Cain</hi> the Seed of his Father the Reprobate Angel was predominate and Lord over that Spark of the Seed of the Woman; whereas in <hi>Abel,</hi> whom <hi>Adam</hi>
+               <pb n="8" facs="tcp:38482:5"/>begot, tho' both Seeds were in him, yet the Seed of Faith being God's Divine Nature, was predominate, and did ſo captivate the Seed of Reaſon in him, that his Sacrifice was acceptable before God, when <hi>Cain</hi>'s was refus'd, which made him ſlay his Brother <hi>Abel.</hi> Now, mark the Seed of Reaſon which is the Seed of the Ser<g ref="char:EOLhyphen"/>pent, or the Reprobate Angel, or the Devil, ſhould bruiſe the Heel of the Seed of the Woman, or the Seed of Faith: But <hi>the Seed of the Woman ſhall break the Serpent's Head,</hi> Now when the glorious God did fulfil his Promiſe, and ſaw it moſt fit to tranſmute his glorious Immortality into a Mortal Human Condition of Fleſh, Blood and Bone, by entring into the Virgin's Womb, who in Time ſhedding his moſt precious Blood, hath overcome Sin, Death, and Hell, which Hell, as yet hath no Being: Altho' the Heaven of Glory, which will be the Reward of the Elect Seed, be in Being and ever was: Yet the Place of Torment will appear but in Time, when God will call all to Judgment.</p>
+            <byline>BY LODOWICK MUGGLETON.</byline>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38482:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
